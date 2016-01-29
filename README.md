@@ -1,6 +1,6 @@
 # FreeCodeCamp
 
-Hello there! This repository shows the process that I'm learning **FreeCodeCamp**.
+Hello there! This repository shows the process that I'm learning [**FreeCodeCamp**](http://www.freecodecamp.com/).
 ##Worksheet of FreeCodeCamp
 Skills         | Start Date           | Finish Date    | Period |
 --------------------|------------------|-----------------------|---|

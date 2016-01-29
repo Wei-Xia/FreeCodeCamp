@@ -2,7 +2,7 @@
 
 Hello there! This repository shows the process that I'm learning [**FreeCodeCamp**](http://www.freecodecamp.com/).
 ##Worksheet of FreeCodeCamp
-Skills         | Start Date           | Finish Date    | Period |
+Skills         | Start Date           | Finish Date    | Period (days) |
 --------------------|------------------|-----------------------|---|
 Join the Free Code Camp Community | 01/26/2016  | 01/26/2016   |1|
 HTML5 and CSS| 01/26/2016  | 01/27/2016   |2|

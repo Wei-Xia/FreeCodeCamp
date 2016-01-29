@@ -16,13 +16,13 @@ Basic Front End Development Projects       |   |    || |
 
 ##Maps of FreeCodeCamp (2199 hours)
 ###Getting Started (15 minutes)
-* Join the Free Code Camp Community (15 minutes)
+* <del>Join the Free Code Camp Community (15 minutes)</del>
 
 ###Front End Development Certification (477 hours 25 minutes)
-* HTML5 and CSS (5 hours)
-* Responsive Design with Bootstrap (5 hours)
-* Gear up for Success (20 minutes)
-* jQuery (3 hours)
+* <del>HTML5 and CSS (5 hours)</del>
+* <del>Responsive Design with Bootstrap (5 hours)</del>
+* <del>Gear up for Success (20 minutes)</del>
+* <del>jQuery (3 hours)</del>
 * Basic JavaScript (10 hours)
 * Object Oriented and Functional Programming (2 hours)
 * Basic Algorithm Scripting (50 hours)

@@ -9,7 +9,6 @@ var myMusic = [
       "LP" ],
     "gold": true
   },
-  // Add record here
 
   {
     "artist": "Bill Joe",

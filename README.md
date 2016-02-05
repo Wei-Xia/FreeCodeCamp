@@ -34,7 +34,7 @@ Notes of the chart above:
 * <del>Gear up for Success (20 minutes)</del>
 * <del>jQuery (3 hours)</del>
 * <del>Basic JavaScript (10 hours)</del>
-* Object Oriented and Functional Programming (2 hours)
+* <del>Object Oriented and Functional Programming (2 hours)</del>
 * Basic Algorithm Scripting (50 hours)
 * Basic Front End Development Projects (100 hours)
 * JSON APIs and Ajax (2 hours)

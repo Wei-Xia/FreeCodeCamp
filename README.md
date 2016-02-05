@@ -11,7 +11,7 @@ Gear up for Success       |01/28/2016|  01/28/2016  |1| 10.58|0.48112%
 jQuery     |  01/28/2016 | 01/29/2016   |2| 13.58|0.61755%
 Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |1.07231%
 Object Oriented and Functional Programming | 02/05/2016  |  02/05/2016  |2|25.58 |1.16325%
-Basic Algorithm Scripting       |   |    ||
+Basic Algorithm Scripting       | 02/05/2016   |    ||
 Basic Front End Development Projects       |   |    || |
 
 Notes of the chart above:

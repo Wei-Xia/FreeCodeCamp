@@ -22,15 +22,15 @@ var Bike = function() {
   var gear;
 
   this.setGear = function(gears) {
-    this.gear = gears;
+    gear = gears;
   };
 
   this.getGear = function() {
-    this.gear = gear;
+    return gear;
   };
 
 };
 
 var myCar = new Car();
 
-var myBike = new Bike(4);
+var myBike = new Bike();

@@ -9,7 +9,7 @@ HTML5 and CSS| 01/26/2016  | 01/27/2016   |2|5.25|0.23874%
 Responsive Design with Bootstrap      |  01/27/2016 |01/28/2016|2|10.25 |0.46612%
 Gear up for Success       |01/28/2016|  01/28/2016  |1| 10.58|0.48112%
 jQuery     |  01/28/2016 | 01/29/2016   |2| 13.58|0.61755%
- Basic JavaScript       |  01/29/2016 |    || |
+Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |1.07231%
 Object Oriented and Functional Programming       |   |    || |
 Basic Algorithm Scripting       |   |    ||
 Basic Front End Development Projects       |   |    || |
@@ -33,7 +33,7 @@ Notes of the chart above:
 * <del>Responsive Design with Bootstrap (5 hours)</del>
 * <del>Gear up for Success (20 minutes)</del>
 * <del>jQuery (3 hours)</del>
-* Basic JavaScript (10 hours)
+* <del>Basic JavaScript (10 hours)</del>
 * Object Oriented and Functional Programming (2 hours)
 * Basic Algorithm Scripting (50 hours)
 * Basic Front End Development Projects (100 hours)

@@ -2,21 +2,23 @@ function palindrome(str) {
   // Good luck!
   
   var lowerCase = str.toLowerCase();
+    
+  var removeSpace = lowerCase.replace(/\s/g, '');
   
-  var newStr = lowerCase.split("");
+  var removeSymbol = removeSpace.replace(/[^a-zA-Z ]/g, "");
+    
+  var finalStr = removeSymbol.split("");
   
-  newStr = newStr.join("");
-  
-  newStr = newStr.replace( /\s/g, ""); 
-  
-  //newStr = newStr.reverse();
-  
+  finalStr = finalStr.reverse();
 
   
-  //return newStr;
-  return lowerCase === newStr;
+  finalStr = finalStr.join("");
+  
+  
+  
+  return removeSymbol===finalStr;
 }
 
 
 
-palindrome("race car");
+palindrome("0_0 (: /-\ :) 0-0");

@@ -4,15 +4,15 @@ Hello there! This repository shows the process that I'm learning [**FreeCodeCamp
 ##Worksheet of FreeCodeCamp
 Skills        | Start Date           | Finish Date    | Period (days) | Accumulated Hours|Percentage of Completion|
 :--------------------|:------------------:|:----:|:---:|:--:|:--:|
-Join the Free Code Camp Community | 01/26/2016  | 01/26/2016   |1|0.25|01.% |
-HTML5 and CSS| 01/26/2016  | 01/27/2016   |2|5.25|0.%
-Responsive Design with Bootstrap      |  01/27/2016 |01/28/2016|2|10.25 |0.%
-Gear up for Success       |01/28/2016|  01/28/2016  |1| 10.58|0.%
-jQuery     |  01/28/2016 | 01/29/2016   |2| 13.58|0.%
-Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |1.%
-Object Oriented and Functional Programming | 02/05/2016  |  02/05/2016  |1|25.58 |1.%
-Basic Algorithm Scripting       | 02/05/2016   |    ||
-Basic Front End Development Projects       |   |    || |
+Join the Free Code Camp Community | 01/26/2016  | 01/26/2016   |1|0.25|0.01111.% |
+HTML5 and CSS| 01/26/2016  | 01/27/2016   |2|5.25|0.00233%
+Responsive Design with Bootstrap      |  01/27/2016 |01/28/2016|2|10.25 |0.00456%
+Gear up for Success       |01/28/2016|  01/28/2016  |1| 10.58|0.47043%
+jQuery     |  01/28/2016 | 01/29/2016   |2| 13.58|0.60382%
+Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |1.04847%
+Object Oriented and Functional Programming | 02/05/2016  |  02/05/2016  |1|25.58 |1.13739%
+Basic Algorithm Scripting       | 02/05/2016   |02/14/2016    |10|75.58|3.36060%
+Bsic Front End Development Projects|
 
 Notes of the chart above:
 
@@ -36,11 +36,11 @@ Notes of the chart above:
 * Basic Front End Development Projects (50 hours)
 * <del>Basic JavaScript (10 hours)</del>
 * <del>Object Oriented and Functional Programming (2 hours)</del>
-* Basic Algorithm Scripting (50 hours)
-* Basic Front End Development Projects (100 hours)
+* <del>Basic Algorithm Scripting (50 hours)</del>
 * JSON APIs and Ajax (2 hours)
+* Intermediate Front End Development Projects (100 hours)
 * Intermediate Algorithm Scripting (50 hours)
-* Intermediate Front End Development Projects (200 hours)
+* Advanced Front End Development Projects (200 hours)
 * Advanced Algorithm Scripting (50 hours)
 * Claim Your Front End Development Certificate (5 minutes)
 

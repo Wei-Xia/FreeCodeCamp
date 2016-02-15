@@ -4,7 +4,7 @@ Hello there! This repository shows the process that I'm learning [**FreeCodeCamp
 ##Worksheet of FreeCodeCamp
 Skills        | Start Date           | Finish Date    | Period (days) | Accumulated Hours|Percentage of Completion|
 :--------------------|:------------------:|:----:|:---:|:--:|:--:|
-Join the Free Code Camp Community | 01/26/2016  | 01/26/2016   |1|0.25|0.01111.% |
+Join the Free Code Camp Community | 01/26/2016  | 01/26/2016   |1|0.25|0.01111% |
 HTML5 and CSS| 01/26/2016  | 01/27/2016   |2|5.25|0.00233%
 Responsive Design with Bootstrap      |  01/27/2016 |01/28/2016|2|10.25 |0.00456%
 Gear up for Success       |01/28/2016|  01/28/2016  |1| 10.58|0.47043%

@@ -12,7 +12,7 @@ jQuery     |  01/28/2016 | 01/29/2016   |2| 13.58|0.60382%
 Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |1.04847%
 Object Oriented and Functional Programming | 02/05/2016  |  02/05/2016  |1|25.58 |1.13739%
 Basic Algorithm Scripting       | 02/05/2016   |02/14/2016    |10|75.58|3.36060%
-Bsic Front End Development Projects|
+Bsic Front End Development Projects| 02/15/2016
 
 Notes of the chart above:
 

@@ -13,6 +13,7 @@ Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |1.04847%
 Object Oriented and Functional Programming | 02/05/2016  |  02/05/2016  |1|25.58 |1.13739%
 Basic Algorithm Scripting       | 02/05/2016   |02/14/2016    |10|75.58|3.36060%
 Bsic Front End Development Projects| 02/15/2016
+JSON APIs and Ajax | 02/19/2016 | 02/19/2016 | 2
 
 Notes of the chart above:
 
@@ -37,7 +38,7 @@ Notes of the chart above:
 * <del>Basic JavaScript (10 hours)</del>
 * <del>Object Oriented and Functional Programming (2 hours)</del>
 * <del>Basic Algorithm Scripting (50 hours)</del>
-* JSON APIs and Ajax (2 hours)
+* <del>JSON APIs and Ajax (2 hours) </del>
 * Intermediate Front End Development Projects (100 hours)
 * Intermediate Algorithm Scripting (50 hours)
 * Advanced Front End Development Projects (200 hours)

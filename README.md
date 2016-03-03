@@ -12,8 +12,8 @@ jQuery     |  01/28/2016 | 01/29/2016   |2| 13.58|0.60382%
 Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |1.04847%
 Object Oriented and Functional Programming | 02/05/2016  |  02/05/2016  |1|25.58 |1.13739%
 Basic Algorithm Scripting       | 02/05/2016   |02/14/2016    |10|75.58|3.36060%
-Bsic Front End Development Projects| 02/15/2016
-JSON APIs and Ajax | 02/19/2016 | 02/19/2016 | 2
+Bsic Front End Development Projects| 02/15/2016|03/02/2016|17|125.58|5.5838%
+JSON APIs and Ajax | 02/19/2016 | 02/19/2016 | 2|127.58|5.6727%
 
 Notes of the chart above:
 
@@ -34,7 +34,7 @@ Notes of the chart above:
 * <del>Responsive Design with Bootstrap (5 hours)</del>
 * <del>Gear up for Success (20 minutes)</del>
 * <del>jQuery (3 hours)</del>
-* Basic Front End Development Projects (50 hours)
+* <del>Basic Front End Development Projects (50 hours)</del>
 * <del>Basic JavaScript (10 hours)</del>
 * <del>Object Oriented and Functional Programming (2 hours)</del>
 * <del>Basic Algorithm Scripting (50 hours)</del>

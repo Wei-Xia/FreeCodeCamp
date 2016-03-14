@@ -2,25 +2,43 @@
 
 Hello there! This repository shows the process that I'm learning [**FreeCodeCamp**](http://www.freecodecamp.com/).
 ##Worksheet of FreeCodeCamp
+###Front End Development Certification
 Skills        | Start Date           | Finish Date    | Period (days) | Accumulated Hours|Percentage of Completion|
 :--------------------|:------------------:|:----:|:---:|:--:|:--:|
-Join the Free Code Camp Community | 01/26/2016  | 01/26/2016   |1|0.25|0.01111% |
-HTML5 and CSS| 01/26/2016  | 01/27/2016   |2|5.25|0.23343%
-Responsive Design with Bootstrap      |  01/27/2016 |01/28/2016|2|10.25 |0.45576%
-Gear up for Success       |01/28/2016|  01/28/2016  |1| 10.58|0.47043%
-jQuery     |  01/28/2016 | 01/29/2016   |2| 13.58|0.60382%
-Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |1.04847%
-Object Oriented and Functional Programming | 02/05/2016  |  02/05/2016  |1|25.58 |1.13739%
-Basic Algorithm Scripting       | 02/05/2016   |02/14/2016    |10|75.58|3.36060%
-Bsic Front End Development Projects| 02/15/2016|03/02/2016|17|125.58|5.58382%
-JSON APIs and Ajax | 02/19/2016 | 02/19/2016 | 2|127.58|5.67274%
+Join the Free Code Camp Community | 01/26/2016  | 01/26/2016   |1|0.25|% |
+HTML5 and CSS| 01/26/2016  | 01/27/2016   |2|5.25|%
+Responsive Design with Bootstrap      |  01/27/2016 |01/28/2016|2|10.25 |%
+Gear up for Success       |01/28/2016|  01/28/2016  |1| 10.58|%
+jQuery     |  01/28/2016 | 01/29/2016   |2| 13.58|%
+Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |%
+Object Oriented and Functional Programming | 02/05/2016  |  02/05/2016  |1|25.58 |%
+Basic Algorithm Scripting       | 02/05/2016   |02/14/2016    |10|75.58|%
+Bsic Front End Development Projects| 02/15/2016|03/02/2016|17|125.58|%
+JSON APIs and Ajax | 02/19/2016 | 02/19/2016 | 2|127.58|%
 
 Notes of the chart above:
 
 ```
 ---
-• It may take up to 2249 hours to finish the entire project. (See details below)
-• Process Percentage = (Accumulated Hours)/(2199 hours);
+• It may take up to 527.5 hours to finish the entire project. (See details below)
+• Process Percentage = (Accumulated Hours)/(527.5 hours);
+---
+```
+***
+
+###Back End Development Certification
+Skills        | Start Date           | Finish Date    | Period (days) | Accumulated Hours|Percentage of Completion|
+:--------------------|:------------------:|:----:|:---:|:--:|:--:|
+Automated Testing and Debugging | 03/07/2016  | 03/07/2016   |1|0.25|% |
+Git| 03/08/2016  | 03/11/2016   |4|3.25|%
+
+
+Notes of the chart above:
+
+```
+---
+• It may take up to 426.5 hours to finish the entire project. (See details below)
+• Process Percentage = (Accumulated Hours)/(426.5 hours);
 ---
 ```
 
@@ -54,8 +72,8 @@ Notes of the chart above:
 * Claim Your Data Visualization Certificate (5 minutes)
 
 ###Back End Development Certification (426 hours 20 minutes)
-* Automated Testing and Debugging (15 minutes)
-* Git (3 hours)
+* <del>Automated Testing and Debugging (15 minutes)</del>
+* <del>Git (3 hours)</del>
 * Node.js and Express.js (20 hours)
 * MongoDB (3 hours)
 * API Projects (150 hours)

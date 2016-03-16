@@ -5,16 +5,16 @@ Hello there! This repository shows the process that I'm learning [**FreeCodeCamp
 ###Front End Development Certification
 Skills        | Start Date           | Finish Date    | Period (days) | Accumulated Hours|Percentage of Completion|
 :--------------------|:------------------:|:----:|:---:|:--:|:--:|
-Join the Free Code Camp Community | 01/26/2016  | 01/26/2016   |1|0.25|% |
-HTML5 and CSS| 01/26/2016  | 01/27/2016   |2|5.25|%
-Responsive Design with Bootstrap      |  01/27/2016 |01/28/2016|2|10.25 |%
-Gear up for Success       |01/28/2016|  01/28/2016  |1| 10.58|%
-jQuery     |  01/28/2016 | 01/29/2016   |2| 13.58|%
-Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |%
-Object Oriented and Functional Programming | 02/05/2016  |  02/05/2016  |1|25.58 |%
-Basic Algorithm Scripting       | 02/05/2016   |02/14/2016    |10|75.58|%
-Bsic Front End Development Projects| 02/15/2016|03/02/2016|17|125.58|%
-JSON APIs and Ajax | 02/19/2016 | 02/19/2016 | 2|127.58|%
+Join the Free Code Camp Community | 01/26/2016  | 01/26/2016   |1|0.25|0.04739% |
+HTML5 and CSS| 01/26/2016  | 01/27/2016   |2|5.25|0.99526%
+Responsive Design with Bootstrap      |  01/27/2016 |01/28/2016|2|10.25 |1.94313%
+Gear up for Success       |01/28/2016|  01/28/2016  |1| 10.58|2.00569%
+jQuery     |  01/28/2016 | 01/29/2016   |2| 13.58|2.57441%
+Basic JavaScript       |  01/29/2016 |02/05/2016|8|23.58 |4.47014%
+Object Oriented and Functional Programming | 02/05/2016  |  02/05/2016  |1|25.58 |4.84929%
+Basic Algorithm Scripting       | 02/05/2016   |02/14/2016    |10|75.58|14.32796%
+Bsic Front End Development Projects| 02/15/2016|03/02/2016|17|125.58|23.80664%
+JSON APIs and Ajax | 02/19/2016 | 02/19/2016 | 2|127.58|24.18579%
 
 Notes of the chart above:
 
